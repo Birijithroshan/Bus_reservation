@@ -118,7 +118,7 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [birijithroshan29@gmail.com].
 
 Happy Coding!
 
